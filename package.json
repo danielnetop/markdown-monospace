@@ -1,0 +1,12 @@
+{
+  "name": "io.github.danielnetop.markdown-pro-monospace",
+  "version": "1.0.0",
+  "main": "main.css",
+  "sn": {
+    "main": "main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DanielNetoP/markdown-pro-monospace.git"
+  }
+}
