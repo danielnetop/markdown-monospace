@@ -3,16 +3,16 @@ metatype: json
 ---
 
 {
-  "identifier": "io.github.danielnetop.markdown-pro-monospace",
-  "name": "Markdown Pro/Hybrid Markdown Monospace",
+  "identifier": "io.github.danielnetop.markdown-monospace",
+  "name": "Markdown Monospace",
   "content_type": "SN|Theme",
   "area": "themes",
-  "version": "1.0.0",
-  "description": "Monospace for Standard Notes Markdown Pro/Hybrid Markdown editor.",
-  "url": "https://danielnetop.github.io/markdown-pro-monospace/main.css",
-  "download_url": "https://github.com/DanielNetoP/markdown-pro-monospace/archive/refs/tags/1.0.0.zip",
-  "latest_url": "https://danielnetop.github.io/markdown-pro-monospace/ext.json",
-  "marketing_url": "https://github.com/DanielNetoP/markdown-pro-monospace",
+  "version": "1.1.0",
+  "description": "Monospace font for Standard Notes markdown editors",
+  "url": "https://danielnetop.github.io/markdown-monospace/main.css",
+  "download_url": "https://github.com/DanielNetoP/markdown-monospace/archive/refs/tags/1.1.0.zip",
+  "latest_url": "https://danielnetop.github.io/markdown-monospace/ext.json",
+  "marketing_url": "https://github.com/DanielNetoP/markdown-monospace",
   "dock_icon": {
     "type": "circle",
     "background_color": "#304ffe",
