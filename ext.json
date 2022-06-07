@@ -7,16 +7,12 @@ metatype: json
   "name": "Markdown Monospace",
   "content_type": "SN|Theme",
   "area": "themes",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Monospace font for Standard Notes markdown editors",
   "url": "https://danielnetop.github.io/markdown-monospace/main.css",
-  "download_url": "https://github.com/DanielNetoP/markdown-monospace/archive/refs/tags/1.1.0.zip",
+  "download_url": "https://github.com/DanielNetoP/markdown-monospace/archive/refs/tags/1.2.0.zip",
   "latest_url": "https://danielnetop.github.io/markdown-monospace/ext.json",
   "marketing_url": "https://github.com/DanielNetoP/markdown-monospace",
-  "dock_icon": {
-    "type": "circle",
-    "background_color": "#304ffe",
-    "foreground_color": "#ffffff",
-    "border_color": "#304ffe"
-  }
+  "thumbnail_url": "https://danielnetop.github.io/markdown-monospace/examples/preview.png",
+  "layerable": true
 }

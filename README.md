@@ -1,6 +1,6 @@
 # Monospace font for Standard Notes markdown editors
 
-This theme does not change the default theme design.
+This theme is toggable on top of other themes, it simply adds the monospace font family to the editors.
 
 Instead, it adds a Monospace font to use in the following editors:
 - Basic Markdown
@@ -17,6 +17,9 @@ https://danielnetop.github.io/markdown-monospace/ext.json
 ```
 
 ## Preview
+**Toggle theme:**
+![Example of the theme toggle](examples/preview.png)
+
 **Before:**
 ![Example of the before theme](examples/before.png)
 
