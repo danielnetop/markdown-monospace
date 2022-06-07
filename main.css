@@ -1,3 +1,4 @@
-.CodeMirror-code {
+.CodeMirror-code,
+#editor {
   font-family: var(--sn-stylekit-monospace-font) !important;
 }
