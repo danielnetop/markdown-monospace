@@ -1,3 +1,5 @@
+⚠️ Archived this repo in favor of official plugin implementation, added this theme on https://github.com/standardnotes/plugins
+
 # Monospace font for Standard Notes markdown editors
 
 This theme is toggable on top of other themes, it simply adds the monospace font family to the editors.
